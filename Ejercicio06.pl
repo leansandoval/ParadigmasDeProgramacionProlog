@@ -62,7 +62,7 @@ busca(teresa, alta, castaño, joven).
 % y son los que busca X) y si, además, los gustos de X e Y en música, literatura y deporte coinciden.
 
 adecuado(X, Y):-
-	hombre(X, _, _, _), 
+    hombre(X, _, _, _), 
     mujer(Y, Altura, Cabello, Edad),
     busca(X, Altura, Cabello, Edad),
     gusta(X, Musica, Literatura, Deporte),
