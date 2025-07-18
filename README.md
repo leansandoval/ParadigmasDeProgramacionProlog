@@ -1,5 +1,5 @@
 # Paradigmas de Programación - Prolog
-Ejercicios resueltos de Prolog de la materia Paradigmas de Programacion (2023). Realizados en el Primer Cuatrimestre 2023.
+Ejercicios resueltos de Prolog de la materia Paradigmas de Programacion (3646). Realizados en el Primer Cuatrimestre 2023.
 
 ## Programación Lógica
 
